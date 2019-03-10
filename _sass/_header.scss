@@ -1,0 +1,29 @@
+.header-image {
+    background: url(/img/team-darkened.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+#main-title {
+    font-family: 'Merienda', cursive;
+    font-size: 84px;
+}
+#sub-title { 
+    font-family: 'Gochi Hand', cursive;
+    font-size: 30px;
+    
+}
+#main-list {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: 3px;
+
+}
+
+.navbar {
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.35);
+}
